@@ -1,0 +1,133 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #2F1893;
+    font-family: "DM sans";
+}
+.signup-form {
+    width: 470px;
+    height: 500px;
+    position: absolute;
+    top: 187px;
+    left: 715px;
+    background-color: #FFFFFF;
+    border: 2px solid #EBEAED;
+    border-radius: 5px;
+    text-align: center;
+    color: gray;
+}
+.header-menu {
+    width: 972px;
+    height: 40px;
+    position: absolute;
+    top: 65px;
+    left: 173px;
+}
+li {
+    list-style: none;
+    float: right;
+    color: white;
+}
+.custom-element {
+    width: 427px;
+    height: 496px;
+    position: absolute;
+    top: 170px;
+    left: 209px;
+}
+.custom-element1 {
+    width: 424px;
+    height: 217px;
+    color: white;
+}
+.custom-element2 {
+    width: 363px;
+    height: 160px;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+    color: white;
+}
+#custom {
+    height: 26px;
+    width: 96px;
+    border-radius: 50px;
+    font-family: 'DM Sans';
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    background-color: #E93A7D;
+    color: white;
+}
+.white {
+    float: left;
+    width: 425px;
+    height: 19px;
+
+    color: white;
+}
+.Menu {
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+h1 {
+    font-weight: 700;
+    font-size: 58px;
+    font-family: 'DM sans';
+    line-height: 70px;
+    letter-spacing: -1px;
+}
+.li-one {
+    font-family: 'DM Sans';
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: gray;
+}
+#btn {
+    height: 50px;
+    width: 330px;
+    border-radius: 25px;
+    color: white;
+    background-color: blue;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+#btn1 {
+    height: 50px;
+    width: 330px;
+    border-radius: 25px;
+    color: white;
+    background-color: rgb(206, 206, 227);
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+#username,
+#password {
+    height: 50px;
+    width: 330px;
+    border-radius: 25px;
+}
+h3 {
+    margin: 22px 0 22px 0px;
+    font-family: DM Sans;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: -0.4000000059604645px;
+    text-align: center;
+}
+
